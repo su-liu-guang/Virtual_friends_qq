@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+!.env*.example
+data/
+*.db
+*.db-*
+*.sqlite*
+*.jsonl
+*.log
+.pytest_cache/
+.ruff_cache/
+.kilo/
+.vscode/
+
+# Local agent instructions
+AGENTS.md
